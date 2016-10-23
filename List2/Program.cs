@@ -8,9 +8,9 @@ namespace List2
         {
             int x, y; // init variables
             x = 100;
-            Console.WriteLine("x consists of " + x);
+            Console.WriteLine("x = " + x);
             y = x / 2;
-            Console.Write("y consists x / 2: ");
+            Console.Write("y = x / 2 => ");
             Console.WriteLine(y);
             Console.ReadLine();
         }
